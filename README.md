@@ -1,4 +1,4 @@
-<h2>Welcome to the Gym Website project! This is a fully responsive, interactive website designed using HTML, CSS, JavaScript, and Bootstrap. The website is created to offer users a seamless experience for exploring gym services, booking fitness classes, learning about trainers, and more.</h2>
+<h3>Welcome to the Gym Website project! This is a fully responsive, interactive website designed using HTML, CSS, JavaScript, and Bootstrap. The website is created to offer users a seamless experience for exploring gym services, booking fitness classes, learning about trainers, and more.</h3>
 
 <h3>Features:</h3>
 
