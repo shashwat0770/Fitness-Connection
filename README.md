@@ -13,8 +13,6 @@ Interactive Sections: Dynamic content powered by JavaScript for class bookings, 
 Fitness Class Listings: View and sign up for various fitness classes with easy access to schedules and promotions.<br>
 Trainer Profiles: Explore professional trainer expertise and book consultations.</h4>
 
-<br>
-
 <h3>Technologies Used:</h3>
 
 <h4>
